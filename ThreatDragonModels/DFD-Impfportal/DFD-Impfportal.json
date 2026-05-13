@@ -1,0 +1,26 @@
+{
+  "version": "2.6.1-RC1",
+  "summary": {
+    "title": "DFD-Impfportal",
+    "owner": "Daryan Ibe",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Jonathan Hau"
+      },
+      {
+        "name": "Lucio Kaup"
+      },
+      {
+        "name": "Merle Spiegel"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
