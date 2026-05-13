@@ -36,13 +36,18 @@
               "width": 130,
               "height": 80
             },
+            "attrs": {
+              "label": {
+                "text": "SMS-Dienstleister"
+              }
+            },
             "visible": true,
             "shape": "trust-boundary-box",
             "id": "6727dfd5-c1ff-48c9-b0b0-123ae28fb44b",
             "zIndex": -1,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "Trust Boundary",
+              "name": "SMS-Dienstleister",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false,
@@ -63,13 +68,18 @@
               "width": 160,
               "height": 100
             },
+            "attrs": {
+              "label": {
+                "text": "Backuphost"
+              }
+            },
             "visible": true,
             "shape": "trust-boundary-box",
             "id": "077fc28b-f08d-49d4-8d31-77c7adc95764",
             "zIndex": -1,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "Trust Boundary",
+              "name": "Backuphost",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false,
@@ -90,13 +100,18 @@
               "width": 400,
               "height": 270
             },
+            "attrs": {
+              "label": {
+                "text": "Web- und Applikationshost"
+              }
+            },
             "visible": true,
             "shape": "trust-boundary-box",
             "id": "32379ea6-8590-40fa-a7d7-ec85d97a5d0b",
             "zIndex": -1,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "Trust Boundary",
+              "name": "Web- und Applikationshost",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false,
@@ -125,13 +140,18 @@
               "width": 130,
               "height": 80
             },
+            "attrs": {
+              "label": {
+                "text": "SMS-Dienstleister"
+              }
+            },
             "visible": true,
             "shape": "trust-boundary-box",
             "id": "fc16b640-31c3-4241-9045-b61c25b1ca0f",
             "zIndex": -1,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "Trust Boundary",
+              "name": "SMS-Dienstleister",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false,
