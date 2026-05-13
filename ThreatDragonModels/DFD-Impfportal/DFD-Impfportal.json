@@ -93,8 +93,8 @@
           },
           {
             "position": {
-              "x": 610.9999999999995,
-              "y": 114.00000000000034
+              "x": 612.5,
+              "y": 114
             },
             "size": {
               "width": 400,
@@ -142,7 +142,7 @@
             },
             "attrs": {
               "label": {
-                "text": "SMS-Dienstleister"
+                "text": "E-Mail-Dienstleister"
               }
             },
             "visible": true,
@@ -151,7 +151,7 @@
             "zIndex": -1,
             "data": {
               "type": "tm.BoundaryBox",
-              "name": "SMS-Dienstleister",
+              "name": "E-Mail-Dienstleister",
               "description": "",
               "isTrustBoundary": true,
               "hasOpenThreats": false,
@@ -161,6 +161,13 @@
               "containedElements": [
                 "1ec8b9cf-ec9b-4fe6-914e-c40a3b6db71f"
               ]
+            },
+            "tools": {
+              "items": [
+                "boundary",
+                "button-remove"
+              ],
+              "name": null
             }
           },
           {
